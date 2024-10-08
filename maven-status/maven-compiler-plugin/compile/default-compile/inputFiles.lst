@@ -1,0 +1,6 @@
+/home/runner/work/equipos-spring-security-api-rest/equipos-spring-security-api-rest/src/main/java/ar/dev/maxisandoval/equiposspringsecurityapirest/EquiposSpringSecurityApiRestApplication.java
+/home/runner/work/equipos-spring-security-api-rest/equipos-spring-security-api-rest/src/main/java/ar/dev/maxisandoval/equiposspringsecurityapirest/config/WebSecurityConfiguration.java
+/home/runner/work/equipos-spring-security-api-rest/equipos-spring-security-api-rest/src/main/java/ar/dev/maxisandoval/equiposspringsecurityapirest/controller/EquipoController.java
+/home/runner/work/equipos-spring-security-api-rest/equipos-spring-security-api-rest/src/main/java/ar/dev/maxisandoval/equiposspringsecurityapirest/model/Equipo.java
+/home/runner/work/equipos-spring-security-api-rest/equipos-spring-security-api-rest/src/main/java/ar/dev/maxisandoval/equiposspringsecurityapirest/service/EquipoRestService.java
+/home/runner/work/equipos-spring-security-api-rest/equipos-spring-security-api-rest/src/main/java/ar/dev/maxisandoval/equiposspringsecurityapirest/service/PaisRestService.java
