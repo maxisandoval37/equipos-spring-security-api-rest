@@ -28,6 +28,23 @@ El endpoint principal de la aplicación se encuentra en:
 
 #### `GET /equipos`
 
+## Ejemplo response
+#### Usuario: *admin*
+#### Password: *1234*
+
+```json
+[
+  {
+    "nombre": "Bover",
+    "banderaPaisOrigen": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "nombre": "Rica",
+    "banderaPaisOrigen": "https://flagcdn.com/w320/ar.png"
+  }
+]
+```
+
 ## Live Demo
 
 [onrender.com](https://equipos-spring-security-api-rest.onrender.com/equipos)
