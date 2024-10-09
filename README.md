@@ -1,4 +1,4 @@
-# Equipos Spring Security API REST
+# Equipos Spring Security API REST - Educación IT 2024 (Curso dictado por mi autoría)
 
 Este proyecto es una API REST construida con Spring Boot que implementa seguridad con Spring Security y gestiona información sobre equipos, utilizando un servicio externo para obtener la imagen de la bandera de su país de origen.
 
