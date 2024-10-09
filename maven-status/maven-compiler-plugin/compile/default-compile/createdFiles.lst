@@ -1,9 +1,9 @@
 ar/dev/maxisandoval/equiposspringsecurityapirest/model/Equipo.class
 ar/dev/maxisandoval/equiposspringsecurityapirest/service/PaisRestService$CountryFlagResponse.class
-ar/dev/maxisandoval/equiposspringsecurityapirest/config/WebSecurityConfiguration.class
 ar/dev/maxisandoval/equiposspringsecurityapirest/EquiposSpringSecurityApiRestApplication.class
+ar/dev/maxisandoval/equiposspringsecurityapirest/config/WebSecurityConfiguration.class
 ar/dev/maxisandoval/equiposspringsecurityapirest/service/PaisRestService.class
-ar/dev/maxisandoval/equiposspringsecurityapirest/controller/EquipoController.class
 ar/dev/maxisandoval/equiposspringsecurityapirest/model/Equipo$EquipoBuilder.class
+ar/dev/maxisandoval/equiposspringsecurityapirest/controller/EquipoController.class
 ar/dev/maxisandoval/equiposspringsecurityapirest/service/EquipoRestService.class
 ar/dev/maxisandoval/equiposspringsecurityapirest/service/PaisRestService$Flags.class
