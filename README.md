@@ -11,7 +11,7 @@ Este proyecto es una API REST construida con Spring Boot que implementa segurida
 - Spring Security
 - Webflux
 - Mockito
-- Github Workflow
+- GitHub Workflow
 - Render
 
 ## Construcción y Ejecución
@@ -24,9 +24,12 @@ mvn clean install
 
 ## Endpoint
 
-El endpoint principal de la aplicación se encuentra en:
+• El endpoint principal de la aplicación se encuentra en:
 
 #### `GET /equipos`
+
+• Documentación (Swagger UI)
+#### `GET /swagger-ui/index.html`
 
 ## Ejemplo response
 #### Usuario: *admin*
